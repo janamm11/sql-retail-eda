@@ -3,9 +3,6 @@
 > 643 products. 7 messy columns. No clean prices, no usable ratings, no brand names.  
 > Here is how I turned that into actual business insights using only MySQL.
 
-📝 **Full Blog Post** → [Read on Medium](https://medium.com/@janamthapa3213/from-messy-retail-data-to-real-insights-end-to-end-sql-analysis-ca726d2c1915)
-
----
 
 ## 📌 About the Project
 
@@ -98,11 +95,6 @@ This project covers the full pipeline:
 ## 📈 Power BI Dashboard
 *(Coming Soon)*
 
----
-
-## 🔗 Links
-
-- 📝 [Medium Blog](https://medium.com/@janamthapa3213/from-messy-retail-data-to-real-insights-end-to-end-sql-analysis-ca726d2c1915)
 
 ---
 
