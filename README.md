@@ -110,3 +110,8 @@ This project covers the full pipeline:
 
 Feel free to connect if you have feedback or questions!  
 This is a self-learned project — always open to improving. 😊
+
+---
+
+> 📌 **Transparency Note**  
+> This README was generated with AI assistance (Claude by Anthropic) based on my own project notes, analysis and findings. All insights, queries and conclusions are from my own work. AI helped me structure and present it clearly.
