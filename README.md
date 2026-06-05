@@ -87,7 +87,7 @@ This project covers the full pipeline:
 
 ---
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 *(Coming Soon)*
 
 
